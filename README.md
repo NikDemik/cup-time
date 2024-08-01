@@ -1,1 +1,1 @@
-***Проект Cup Time по интенсиву METHED
+# Проект Cup Time по интенсиву METHED
